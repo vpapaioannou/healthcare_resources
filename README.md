@@ -39,6 +39,11 @@ see in an image.
   - [ITK-snap](http://www.itksnap.org/pmwiki/pmwiki.php): View and process NIFTI files.
     - [ITK-snap beginners short tutorial](http://www.itksnap.org/pmwiki/pmwiki.php%3Fn%3DDocumentation.TutorialSectionNewVersionTwo)
   - [Paraview](www.paraview.org) An [STL](https://en.wikipedia.org/wiki/STL_(file_format)) File viewer of 3D rendered objects.
+  - [VTK](https://vtk.org/): Process images and create 3D computer graphics with the Visualization Toolkit
+    - [PyScience - VTK](https://pyscience.wordpress.com/)
+    - [A Comprehensive Guide To Visualizing and Analyzing DICOM Images in Python](https://hengloose.medium.com/a-comprehensive-starter-guide-to-visualizing-and-analyzing-dicom-images-in-python-7a8430fcb7ed)
+  - Python Matplotlib
+    - [Viewing 3D Volumetric Data With Matplotlib](https://www.datacamp.com/community/tutorials/matplotlib-3d-volumetric-data)
 - Burnt-in Images Text
   - [Tesseract](https://github.com/tesseract-ocr/tesseract): Optical Character Recognition (OCR)
     - [Frequently Asked Questions](https://tesseract-ocr.github.io/tessdoc/tess3/FAQ-Old.html)
