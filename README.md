@@ -53,10 +53,12 @@ see in an image.
     - [Text Extraction from a Table Image, using PyTesseract and OpenCV](https://fazlurnu.com/2020/06/23/text-extraction-from-a-table-image-using-pytesseract-and-opencv/)
     - [Improving the quality of the output](https://tesseract-ocr.github.io/tessdoc/ImproveQuality.html)
     - [A list of useful control parameters and config files](https://tesseract-ocr.github.io/tessdoc/tess3/ControlParams.html)
-    - [](https://tesseract-ocr.github.io/tessdoc/)
     - [Using Config Files](https://github.com/tesseract-ocr/tesseract/blob/main/doc/tesseract.1.asc#config-files-and-augmenting-with-user-data)
     - [Command Line Usage](https://tesseract-ocr.github.io/tessdoc/Command-Line-Usage.html)
   - [PyTesseract](https://github.com/madmaze/pytesseract) Tesseract implementation in Python
+    - [Tesseract Page Segmentation Modes (PSMs) Explained: How to Improve Your OCR Accuracy](https://pyimagesearch.com/2021/11/15/tesseract-page-segmentation-modes-psms-explained-how-to-improve-your-ocr-accuracy/)
+    - [Language Translation and OCR with Tesseract and Python](https://pyimagesearch.com/2021/09/20/language-translation-and-ocr-with-tesseract-and-python/)
+    - [Whitelisting and Blacklisting Characters with Tesseract and Python](https://pyimagesearch.com/2021/09/06/whitelisting-and-blacklisting-characters-with-tesseract-and-python/)
  
 # Commercial and non-commercial de-identfication and anonymization tools
 
