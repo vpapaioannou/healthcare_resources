@@ -1,5 +1,14 @@
 A collection of resources for **Healthcare**. In case something is missing or a link is not working, please create an issue [here](https://github.com/vpapaioannou/healthcare_resources/issues)
 
+# Courses
+
+- [Clinical Data Science Specialization by University of Colorado](https://www.coursera.org/specializations/clinical-data-science)
+
+# Data Engineering
+
+- ETL
+  - [Data Profiling with WhiteRabbit](https://github.com/OHDSI/WhiteRabbit?tab=readme-ov-file)
+
 # Communities
 
 - [RSNA](https://www.rsna.org/): Radiological Society of North America
